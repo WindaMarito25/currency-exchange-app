@@ -63,6 +63,7 @@ To use the CurrencyFreaks API, you need to sign up first to obtain an API key. V
    
    - Create a file named `.env`.
    - Add the following line to the `.env` file:
+     
      ```plaintext
      REACT_APP_API_KEY=your_api_key_here
      ```
