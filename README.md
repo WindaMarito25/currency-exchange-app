@@ -13,7 +13,7 @@ This project is a Currency Exchange application built using **React.js**, **Vite
 
 ## Program Information
 
-This is **Assignment 4** for the **Digitalent FGA Hactive 8 Web Development** program.
+This project was created to complete **Assignment 4** for the **Digitalent FGA x Hactive 8 Web Development** program.
 
 ## Key Features
 
