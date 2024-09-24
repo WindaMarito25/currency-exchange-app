@@ -19,8 +19,6 @@ This project was created to complete **Assignment 4** for the **Digitalent FGA x
 
 - **Responsive User Interface**: Designed with Bootstrap for a great user experience across different devices.
 - **API Integration**: Fetches real-time exchange rate data from the CurrencyFreaks API.
-- **Currency Conversion**: Users can select a source currency and a target currency, and enter an amount to convert.
-- **Automatic Calculation**: Conversion results are displayed automatically as the user inputs values.
 
 ## Technologies Used
 
